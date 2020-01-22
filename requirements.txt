@@ -1,4 +1,6 @@
-jupyter==1.0.0
+notebook==6.0.3
+jupyterlab==1.2.5
+ipywidgets==7.5.1
 parsel==1.5.2
 scrapinghub-autoextract
 html-text==0.5.1
