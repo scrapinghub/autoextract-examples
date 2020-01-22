@@ -1,2 +1,4 @@
 jupyter==1.0.0
+parsel==1.5.2
 scrapinghub-autoextract
+html-text==0.5.1
