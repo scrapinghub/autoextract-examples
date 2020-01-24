@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Setting jupyter notebook theme
+jt -t grade3
