@@ -1,4 +1,5 @@
 #!/bin/bash
+# mybinder.com post build script https://mybinder.readthedocs.io/en/latest/config_files.html#postbuild-run-code-after-installing-the-environment
 
 # Setting jupyter notebook theme
 jt -t chesterish
