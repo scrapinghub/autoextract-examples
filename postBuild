@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Setting jupyter notebook theme
-jt -t grade3
+jt -t chesterish
